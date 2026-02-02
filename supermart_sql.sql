@@ -145,4 +145,10 @@ group by Products
 order by totalsales desc limit 20% */
  
 SELECT count(distinct OrderID)
+from sales;
+
+SELECT SUM(Quantity)
+from sales;
+
+SELECT SUM(Profit)
 from sales
