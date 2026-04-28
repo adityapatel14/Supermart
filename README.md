@@ -235,4 +235,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📄 License
 
-This project is for analytical and educational purposes. Dataset is based on publicly available Superstore sample data.
+This project is for analytical and educational purposes. Dataset is based on publicly available Superstore sample data based in US.
